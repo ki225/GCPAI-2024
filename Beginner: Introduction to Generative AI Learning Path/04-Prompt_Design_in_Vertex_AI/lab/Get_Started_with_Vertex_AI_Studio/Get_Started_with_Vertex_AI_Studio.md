@@ -14,6 +14,8 @@
 ### Task 1. Analyze images with Gemini in Freeform mode
 Enable the Vertex AI API
 
+![](img/img3.png)
+
 ![](/img/img3.png)
 ![](/img/img4.png)
 ![](/img/img5.png)
