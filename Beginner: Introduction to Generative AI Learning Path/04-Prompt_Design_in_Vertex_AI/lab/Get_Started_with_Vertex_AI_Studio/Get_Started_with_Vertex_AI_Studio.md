@@ -14,16 +14,15 @@
 ### Task 1. Analyze images with Gemini in Freeform mode
 Enable the Vertex AI API
 
-![](img/img3.png)
 
-![](/img/img3.png)
-![](/img/img4.png)
-![](/img/img5.png)
+![](img/img3.png)
+![](img/img4.png)
+![](img/img5.png)
 
 Analyze images with Gemini
 
-![](/img/img6.png)
-![](/img/img7.png)
+![](img/img6.png)
+![](img/img7.png)
 
 
 The UI contains three main sections:
@@ -32,34 +31,34 @@ The UI contains three main sections:
 - Configuration (located on the right): This section allows you to select models, configure parameters, and obtain the corresponding code.
 - Response (located at the bottom): This section displays the results of your prompt.
 
-![](/img/img8.png)
+![](img/img8.png)
 
 #### project: Image Analysis
-![](/img/img9.png)
-![](/img/img10.png)
-![](/img/img11.png)
-![](/img/img12.png)
+![](img/img9.png)
+![](img/img10.png)
+![](img/img11.png)
+![](img/img12.png)
 
 
 #### prompt design practice
-![](/img/img13.png)
-![](/img/img14.png)
-![](/img/img15.png)
-![](/img/img16.png)
-![](/img/img17.png)
-![](/img/img18.png)
-![](/img/img19.png)
-![](/img/img20.png)
+![](img/img13.png)
+![](img/img14.png)
+![](img/img15.png)
+![](img/img16.png)
+![](img/img17.png)
+![](img/img18.png)
+![](img/img19.png)
+![](img/img20.png)
 
 
 ### Task 2. Explore multimodal capabilities
-![](/img/img21.png)
-![](/img/img22.png)
-![](/img/img23.png)
-![](/img/img24.png)
-![](/img/img25.png)
-![](/img/img26.png)
-![](/img/img27.png)
+![](img/img21.png)
+![](img/img22.png)
+![](img/img23.png)
+![](img/img24.png)
+![](img/img25.png)
+![](img/img26.png)
+![](img/img27.png)
 
 Replace <Your-Cloud-Storage-Bucket> with the bucket name you copied earlier.
 ```
@@ -67,15 +66,15 @@ gcloud storage cp gs://spls/gsp154/video/train.mp4 gs://<Your-Cloud-Storage-Buck
 ```
 
 
-![](/img/img28.png)
-![](/img/img29.png)
-![](/img/img30.png)
-![](/img/img31.png)
-![](/img/img32.png)
+![](img/img28.png)
+![](img/img29.png)
+![](img/img30.png)
+![](img/img31.png)
+![](img/img32.png)
 
 
 ### Task 3. Design text prompts
-![](/img/img33.png)
+![](img/img33.png)
 
 
 #### Prompt design
@@ -181,35 +180,35 @@ The purpose of a prompt gallery is to overcome creative blocks, explore new idea
 ### One-shot prompting Lab
 design prompts in more organized ways, e.g. providing Context and Examples in their respective input fields
 
-![](/img/img35.png)
-![](/img/img36.png)
-![](/img/img37.png)
+![](img/img35.png)
+![](img/img36.png)
+![](img/img37.png)
 
-![](/img/img39.png)
+![](img/img39.png)
 
 
-![](/img/img40.png)
-![](/img/img41.png)
+![](img/img40.png)
+![](img/img41.png)
 
-![](/img/img42.png)
-![](/img/img43.png)
+![](img/img42.png)
+![](img/img43.png)
 
 
 ### Few-shot prompting Lab
 use the model to perform sentiment analysis on a sentence, such as determining whether a movie review is positive or negative using few-shot prompting.
 
-![](/img/img44.png)
-![](/img/img45.png)
+![](img/img44.png)
+![](img/img45.png)
 
 
 ## Task 4. Generate conversations
 add context to the chat and let the model respond based on the context provided.
 
-![](/img/img47.png)
-![](/img/img48.png)
-![](/img/img49.png)
-![](/img/img50.png)
-![](/img/img51.png)
-![](/img/img52.png)
+![](img/img47.png)
+![](img/img48.png)
+![](img/img49.png)
+![](img/img50.png)
+![](img/img51.png)
+![](img/img52.png)
 
 
