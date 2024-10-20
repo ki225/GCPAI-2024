@@ -74,5 +74,27 @@ How do control plane authorized networks work in GKE?
 ```
 ans
 ```
+Control plane authorized networks (CPANs) in GKE are a security feature that restricts access to the control plane of your Kubernetes cluster to specific networks. This helps to protect your cluster from unauthorized access and potential attacks.
+
+Here's how CPANs work:
+
+Create a CPAN: You define a CPAN by specifying a network or a list of networks that are authorized to access the control plane.
+Associate the CPAN with your cluster: Once you've created a CPAN, you associate it with your GKE cluster.
+Restrict access: After associating the CPAN, only traffic originating from the authorized networks can access the control plane. This includes traffic from nodes, master machines, and external clients.
+Here are some key points to remember about CPANs:
+
+Traffic from authorized networks: Traffic originating from the authorized networks can access the control plane for all operations, including creating, updating, and deleting resources.
+Traffic from unauthorized networks: Traffic originating from unauthorized networks is blocked by the control plane.
+IP ranges: CPANs can be defined using IP ranges or CIDR blocks.
+Multiple CPANs: You can associate multiple CPANs with a single cluster.
+Dynamic updates: CPANs can be updated dynamically to add or remove authorized networks.
+By using CPANs, you can help to protect your GKE cluster from unauthorized access and potential attacks.
+
+
+
+
+
+
+
 
 ```
