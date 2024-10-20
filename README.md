@@ -5,3 +5,4 @@
     - Path 1: Beginner: Introduction to Generative AI Learning Path (5 堂課程)
     - Path 2: Intermediate: Gemini for Google Cloud Learning Path (8 堂課程)
     - Path 3: Advanced: Generative AI for Developers Learning Path (12 堂課程)    
+- 領獎查詢 Tool: https://gcp-study-jam-2024-tw-badges-checker.vercel.app
