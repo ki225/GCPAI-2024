@@ -19,7 +19,6 @@
 
 ### 4. What is the purpose of the decoder in an encoder-decoder architecture?
 - [x] To predict the next word in the output sequence
-- That's correct!
 - [ ] To learn the relationship between the input and output sequences
 - [x] To generate the output sequence from the vector representation
 - [ ] To convert the input sequence into a vector representation
