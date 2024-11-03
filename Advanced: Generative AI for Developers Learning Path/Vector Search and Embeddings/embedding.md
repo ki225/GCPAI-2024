@@ -19,9 +19,9 @@
 - 不傳達詞之間的關係，無法辨認近似詞。
 - 生成的矩陣維度依賴於詞彙表大小，可能會導致大量零值，形成超稀疏表示。
 
-![](img1/img1.png)
-![](img1/img2.png)
-![](img1/img3.png)
+![](img/img7.png)
+![](img/img8.png)
+![](img/img9.png)
 
 ### 5. 嵌入技術的優勢
 - **詞嵌入（Word Embeddings）**
